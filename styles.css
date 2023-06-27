@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:#808080;
+}
+div{
+	width:350px;
+	height:250px;
+	background-color:white;
+	padding:10px;
+	margin-top:25%;
+	margin-left:25%;
+	
+}
+hr{
+	border:0.px #808080;
+}
+#open-modal{
+	background-color:#808080;
+	color:white;
+	float:right;
+	padding:8px;
+	font-size:15px;
+	border-radius:5px;
+	border:none;
+}
